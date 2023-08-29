@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nay
-- 👀 I’m interested in ** Web Application Development**
-- 🌱 I’m currently learning ** Web Development with Java**
-- 💞️ I’m looking to collaborate on ** Research & Development**
+- 👀 I’m interested in ** Web Application Development **
+- 🌱 I’m currently learning ** Web Development with Java **
+- 💞️ I’m looking to collaborate on ** Research & Development **
 - 📫 How to reach me (naymyohtike998@gmail.com)
 
 ![Win's GitHub stats](https://github-readme-stats.vercel.app/api?username=naymh&&show_icons=true&theme=tokyonight&count_private=true)
